@@ -51,7 +51,7 @@ This project trains a YOLOv8 model to detect signatures in images. The dataset w
 Once training is complete, the model is evaluated on the test dataset.
 
 ### Evaluation Result:
-![Evaluation Screenshot](screenshots/1.jpeg)
+![Evaluation Screenshot](screenshot/1.jpeg)
 
 ## Running the Flask App
 After training and evaluation, the model is served using Flask.

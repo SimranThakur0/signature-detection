@@ -1,0 +1,9 @@
+labelme
+ultralytics
+json
+shutil
+scikit-learn
+numpy
+opencv-python
+albumentations
+Flask

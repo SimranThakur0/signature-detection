@@ -53,21 +53,5 @@ Once training is complete, the model is evaluated on the test dataset.
 ### Evaluation Result:
 ![Evaluation Screenshot](screenshot/1.jpeg)
 
-## Running the Flask App
-After training and evaluation, the model is served using Flask.
-
-1. Run the Flask app:
-   ```bash
-   python app.py
-   ```
-2. Open the browser and visit:
-   ```
-   http://127.0.0.1:5000/
-   ```
-
-## API Endpoints
-- `GET /` → Check if the API is running
-- `POST /predict` → Upload an image for signature detection
-
 ## Notes
 - The dataset contains a limited number of images, so augmentation was crucial.

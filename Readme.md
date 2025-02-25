@@ -1,4 +1,4 @@
-# Signature Detection using YOLOv8
+# Signature Detection using YOLOv8 
 
 ## Overview
 This project trains a YOLOv8 model to detect signatures in images. The dataset was annotated in the YOLO format, and data augmentation was performed to improve accuracy. The trained model is evaluated on test data and deployed using Flask for local inference.
